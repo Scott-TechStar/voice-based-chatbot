@@ -1,2 +1,2 @@
 # voice-based-chatbot
-<img src="https://github/johnnie33/voice-based-chatbot/blob/main/images/icon.jpg?raw=true" alt="Profile">
+<img src="https://raw.githubusercontent.com/johnnie33/voice-based-chatbot/main/images/icon.jpg" alt="Profile">
